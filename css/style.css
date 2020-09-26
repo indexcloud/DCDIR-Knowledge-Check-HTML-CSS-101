@@ -1,0 +1,15 @@
+.main-box {
+    text-align: center;
+    border: 5px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+
+.main-box p {
+    text-align: left;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+}
